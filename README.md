@@ -153,17 +153,3 @@ This project helped strengthen practical understanding of:
 Sameer Shaik
 
 ---
-
-## Screenshots
-
-### Basic Commands
-
-![Basic Commands](screenshots/basic_commands.png)
-
-### Background Processes
-
-![Background Process](screenshots/background_process.png)
-
-### Pipes
-
-![Pipes](screenshots/pipes.png)
