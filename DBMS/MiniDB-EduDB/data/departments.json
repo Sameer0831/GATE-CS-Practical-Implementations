@@ -1,0 +1,22 @@
+[
+    {
+        "department": "CSE",
+        "hod": "Dr. Ramesh"
+    },
+    {
+        "department": "ECE",
+        "hod": "Dr. Kavitha"
+    },
+    {
+        "department": "MECH",
+        "hod": "Dr. Prasad"
+    },
+    {
+        "department": "EEE",
+        "hod": "Dr. Suresh"
+    },
+    {
+        "department": "CIVIL",
+        "hod": "Dr. Mahesh"
+    }
+]

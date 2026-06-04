@@ -1,0 +1,296 @@
+[
+    {
+        "id": 1,
+        "name": "Rajesh",
+        "department": "CSE",
+        "marks": 99
+    },
+    {
+        "id": 2,
+        "name": "Sameer",
+        "department": "ECE",
+        "marks": 76
+    },
+    {
+        "id": 3,
+        "name": "Akhil",
+        "department": "MECH",
+        "marks": 81
+    },
+    {
+        "id": 4,
+        "name": "Priya",
+        "department": "CSE",
+        "marks": 92
+    },
+    {
+        "id": 6,
+        "name": "Sneha",
+        "department": "CIVIL",
+        "marks": 85
+    },
+    {
+        "id": 7,
+        "name": "Kiran",
+        "department": "CSE",
+        "marks": 74
+    },
+    {
+        "id": 8,
+        "name": "Neha",
+        "department": "ECE",
+        "marks": 90
+    },
+    {
+        "id": 9,
+        "name": "Arjun",
+        "department": "MECH",
+        "marks": 79
+    },
+    {
+        "id": 10,
+        "name": "Divya",
+        "department": "CSE",
+        "marks": 95
+    },
+    {
+        "id": 11,
+        "name": "Harsha",
+        "department": "EEE",
+        "marks": 72
+    },
+    {
+        "id": 12,
+        "name": "Pooja",
+        "department": "CSE",
+        "marks": 88
+    },
+    {
+        "id": 13,
+        "name": "Vamsi",
+        "department": "ECE",
+        "marks": 91
+    },
+    {
+        "id": 14,
+        "name": "Keerthi",
+        "department": "CIVIL",
+        "marks": 67
+    },
+    {
+        "id": 15,
+        "name": "Nikhil",
+        "department": "MECH",
+        "marks": 83
+    },
+    {
+        "id": 16,
+        "name": "Ananya",
+        "department": "CSE",
+        "marks": 94
+    },
+    {
+        "id": 17,
+        "name": "Teja",
+        "department": "EEE",
+        "marks": 78
+    },
+    {
+        "id": 18,
+        "name": "Meghana",
+        "department": "ECE",
+        "marks": 86
+    },
+    {
+        "id": 19,
+        "name": "Sandeep",
+        "department": "MECH",
+        "marks": 71
+    },
+    {
+        "id": 20,
+        "name": "Lavanya",
+        "department": "CSE",
+        "marks": 97
+    },
+    {
+        "id": 21,
+        "name": "Karthik",
+        "department": "EEE",
+        "marks": 80
+    },
+    {
+        "id": 22,
+        "name": "Bindu",
+        "department": "CIVIL",
+        "marks": 75
+    },
+    {
+        "id": 23,
+        "name": "Charan",
+        "department": "ECE",
+        "marks": 93
+    },
+    {
+        "id": 24,
+        "name": "Madhavi",
+        "department": "CSE",
+        "marks": 84
+    },
+    {
+        "id": 25,
+        "name": "Rakesh",
+        "department": "MECH",
+        "marks": 66
+    },
+    {
+        "id": 26,
+        "name": "Sindhu",
+        "department": "CSE",
+        "marks": 89
+    },
+    {
+        "id": 27,
+        "name": "Abhinav",
+        "department": "EEE",
+        "marks": 73
+    },
+    {
+        "id": 28,
+        "name": "Deepika",
+        "department": "ECE",
+        "marks": 87
+    },
+    {
+        "id": 29,
+        "name": "Sai",
+        "department": "CSE",
+        "marks": 96
+    },
+    {
+        "id": 30,
+        "name": "Nandini",
+        "department": "CIVIL",
+        "marks": 70
+    },
+    {
+        "id": 31,
+        "name": "Varun",
+        "department": "CSE",
+        "marks": 88
+    },
+    {
+        "id": 32,
+        "name": "Bhavana",
+        "department": "ECE",
+        "marks": 77
+    },
+    {
+        "id": 33,
+        "name": "Tarun",
+        "department": "MECH",
+        "marks": 82
+    },
+    {
+        "id": 34,
+        "name": "Ayesha",
+        "department": "EEE",
+        "marks": 69
+    },
+    {
+        "id": 35,
+        "name": "Lokesh",
+        "department": "CIVIL",
+        "marks": 74
+    },
+    {
+        "id": 36,
+        "name": "Pavani",
+        "department": "CSE",
+        "marks": 91
+    },
+    {
+        "id": 37,
+        "name": "Dheeraj",
+        "department": "ECE",
+        "marks": 85
+    },
+    {
+        "id": 38,
+        "name": "Sravani",
+        "department": "MECH",
+        "marks": 78
+    },
+    {
+        "id": 39,
+        "name": "Ajay",
+        "department": "EEE",
+        "marks": 81
+    },
+    {
+        "id": 40,
+        "name": "Mounika",
+        "department": "CSE",
+        "marks": 95
+    },
+    {
+        "id": 41,
+        "name": "Ravi",
+        "department": "ECE",
+        "marks": 90
+    },
+    {
+        "id": 42,
+        "name": "Geetha",
+        "department": "CIVIL",
+        "marks": 73
+    },
+    {
+        "id": 43,
+        "name": "Vijay",
+        "department": "MECH",
+        "marks": 84
+    },
+    {
+        "id": 44,
+        "name": "Manasa",
+        "department": "CSE",
+        "marks": 93
+    },
+    {
+        "id": 45,
+        "name": "Praneeth",
+        "department": "EEE",
+        "marks": 76
+    },
+    {
+        "id": 46,
+        "name": "Kavya",
+        "department": "ECE",
+        "marks": 88
+    },
+    {
+        "id": 47,
+        "name": "Rithvik",
+        "department": "CSE",
+        "marks": 97
+    },
+    {
+        "id": 48,
+        "name": "Sushma",
+        "department": "CIVIL",
+        "marks": 71
+    },
+    {
+        "id": 49,
+        "name": "Yash",
+        "department": "MECH",
+        "marks": 80
+    },
+    {
+        "id": 50,
+        "name": "Anjali",
+        "department": "CSE",
+        "marks": 94
+    }
+]

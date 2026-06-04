@@ -1,0 +1,26 @@
+[
+    {
+        "transaction_id": "TXN101",
+        "operation": "BEGIN TRANSACTION",
+        "status": "STARTED",
+        "timestamp": "2026-05-26 01:46:59.606356"
+    },
+    {
+        "transaction_id": "TXN101",
+        "operation": "COMMIT",
+        "status": "SUCCESS",
+        "timestamp": "2026-05-26 01:46:59.626840"
+    },
+    {
+        "transaction_id": "TXN102",
+        "operation": "BEGIN TRANSACTION",
+        "status": "STARTED",
+        "timestamp": "2026-05-26 01:46:59.643585"
+    },
+    {
+        "transaction_id": "TXN102",
+        "operation": "ROLLBACK",
+        "status": "REVERTED",
+        "timestamp": "2026-05-26 01:46:59.660338"
+    }
+]
