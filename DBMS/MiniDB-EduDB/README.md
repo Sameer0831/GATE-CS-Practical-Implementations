@@ -334,5 +334,3 @@ This project helped in understanding:
 # Author
 
 Sameer Shaik
-
-Educational DBMS Project for GATE CS & Core Computer Science Learning.
