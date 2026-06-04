@@ -1,0 +1,8 @@
+Student ---- Enrolls ---- Course
+
+Entities:
+1. Student(StudentID, Name, Department)
+2. Course(CourseID, CourseName)
+
+Relationship:
+Enrolls(StudentID, CourseID)

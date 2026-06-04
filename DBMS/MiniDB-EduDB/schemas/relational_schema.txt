@@ -1,0 +1,16 @@
+Student(
+    StudentID PRIMARY KEY,
+    Name,
+    Department,
+    Marks
+)
+
+Department(
+    Department PRIMARY KEY,
+    HOD
+)
+
+Enrollment(
+    StudentID FOREIGN KEY,
+    CourseID FOREIGN KEY
+)

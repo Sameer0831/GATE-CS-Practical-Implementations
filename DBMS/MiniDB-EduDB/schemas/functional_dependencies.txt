@@ -1,0 +1,6 @@
+Functional Dependencies
+
+1. StudentID -> Name
+2. StudentID -> Department
+3. Department -> HOD
+4. StudentID -> Marks
